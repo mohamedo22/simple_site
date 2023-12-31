@@ -1,0 +1,64 @@
+*{
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#first_section
+{
+    width: 90%;
+    height: 500px;
+    background-image: url(img/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 80px;
+    
+}
+#text
+{
+    color:black;
+    font-size: 20px;
+    margin-left: 500px;
+}
+#section_tow
+{
+    width: 50%;
+    height: 150px;
+    margin-left: 380px ;
+    border: solid 1.5px black;
+    border-radius: 8px;
+    margin-top: 50px;
+    padding: 20px;
+}
+#third_section
+{
+    width: 70%;
+    height: 400px;
+    margin-left: 200px;
+}
+.small_size
+{
+    width: 350px;
+}
+.larg_size
+{
+    width: 300px;
+    padding-top: 70px;
+}
+#fourth_section
+{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(77, 75, 75);
+    margin-top: 250px;
+    padding-top: 40px;
+}
+#cont_of_contact
+{
+    width: 40%;
+    height: 150px;
+    margin-left: 150px;
+
+}
+#color
+{
+    color: white;   
+}
